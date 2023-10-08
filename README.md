@@ -1,7 +1,7 @@
 # Advanced-Threat-Detection-and-Entity-Recognition-with-OpenAI-GPT
 Traditional methods of threat detection are often insufficient, necessitating the integration of cutting-edge technologies. This code demonstrates how OpenAI's GPT(Generative Pre-trained Transformers) can be utilized for advanced threat detection and entity recognition, enhancing cybersecurity measures.
 
-# Understanding Data Types in the Dataset
+# Understanding Data Types in the Dataset(test.csv file)
 
 ## Categorical Variables (category1, category2, category3):
 
