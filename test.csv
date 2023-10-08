@@ -1,0 +1,5 @@
+category1,category2,category3,numeric1,numeric2,numeric3,feature1,feature2,feature3,text
+A,X,M,-0.707106781,-0.707106781,-0.707106781,0.5,0.2,0.9,This is a vulnerable text.
+B,Y,N,0.707106781,0.707106781,0.707106781,0.3,0.1,0.7,A safe statement here.
+A,Z,N,0,-1.414213562,0,0.8,0.3,0.8,Another vulnerable input.
+C,Y,M,1.414213562,1.414213562,1.414213562,0.6,0.4,1,Safe text to analyze.
